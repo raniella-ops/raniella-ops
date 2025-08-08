@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+<img src="./assets/poster.png" width="25%" align="right" />
+<h3 align="center"> Hi, I'm Raniella 🎧💜 </h3>
+<br><br>
+<pre>
+    💻 BS Information Technology Graduate
+    💼 Currently learning tools for Automation Testing
+    ⌨️ Studying for ISTQB CTFL v4.0 Exam
+    📖 Books • Games • Anime • Code • Music
+</pre>
+<br><br>
+<img src="./assets/purple-star.gif" height="30" />
+<br><br><br>
 
-<!--
-**raniella-ops/raniella-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/raniella-olivia-alvarez-14405b16b/)
+[![](https://img.shields.io/badge/website-6364ff)]()
+[![](https://img.shields.io/badge/journal-6a50ac)]()
+</div>
